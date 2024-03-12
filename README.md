@@ -1,1 +1,1 @@
-# projects
+It is a repo where I store my projects that I have developed myself through pages such as freecodecamp, codecademy, js30, codewars, leetcode, codefinity, and the assignments and projects done in the courses I took within Clarusway.
